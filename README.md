@@ -45,8 +45,8 @@ Registers a new user and returns a Sanctum token.
 
 ```json
 {
-  "name": "Jane Doe",
-  "email": "jane@example.com",
+  "name": "Alper Dur",
+  "email": "alper@gmail.com",
   "password": "password123",
   "password_confirmation": "password123"
 }
@@ -58,7 +58,7 @@ Authenticates a user and returns a Sanctum token.
 
 ```json
 {
-  "email": "jane@example.com",
+  "email": "alper@gmail.com",
   "password": "password123"
 }
 ```
